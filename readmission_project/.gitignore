@@ -1,0 +1,15 @@
+# Data file (too large for GitHub)
+data/diabetic_data.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
